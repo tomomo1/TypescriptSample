@@ -1,1 +1,2 @@
 # TypescriptSample
+練習
